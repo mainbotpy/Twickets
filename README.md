@@ -1,5 +1,7 @@
 # Twickets<br>
-Advanced Twickets Ticket Buying Bot.<br>
+<b>Advanced Twickets Ticket Buying Bot</b><br>
+Version 1.5.1<br>
+<br>
 If your desired tickets are listed on Twickets but the tickets are being sold out just after being listed, you can try out my bots.<br>
 <br>
 The bot keeps checking for tickets in your given price range.<br>
@@ -16,16 +18,16 @@ https://wa.me/message/2KF4P56OVD5QB1
 <br>
 <br>
 <br>
-ticketbot
-twickets bot
-ticket booking bot
-twickets-get
-tickets-bot
-tailor swift
-oasis
-oasis Tickets 
-lady gaga tickets 
-Billie Eilish tickets 
-tailor swift tickets
-oasis tickets
-tickets buying bot
+ticket bot <br>
+twickets bot <br>
+ticket booking bot <br>
+twickets-get <br>
+tickets-bot <br>
+tailor swift <br>
+oasis <br>
+oasis Tickets <br>
+lady gaga tickets <br>
+Billie Eilish tickets <br>
+tailor swift tickets <br>
+oasis tickets <br>
+tickets buying bot <br>
