@@ -1,6 +1,6 @@
 # Twickets<br>
 <b>Advanced Twickets Ticket Buying Bot</b><br>
-Version 1.5.1<br>
+Version 1.6.1<br>
 <br>
 If your desired tickets are listed on Twickets but the tickets are being sold out just after being listed, you can try out my bots.<br>
 <br>
@@ -18,6 +18,7 @@ https://wa.me/message/2KF4P56OVD5QB1
 <br>
 <br>
 <br>
+big Thief<br>
 ticket bot <br>
 twickets bot <br>
 ticket booking bot <br>
